@@ -15,9 +15,16 @@ p{
 
 p span{
 	font-weight: bold;
-	color: #4CCA98;
+	color: #FF9C82;
 
 }
+
+.about a {
+	color: #FF9C82;
+	font-size: inherit ;
+}
+
+
 ol {
     padding-left:0.5rem;
 }​
