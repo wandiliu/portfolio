@@ -13,6 +13,11 @@ p{
 	line-height: 2;
 }
 
+p span{
+	font-weight: bold;
+	color: #4CCA98;
+
+}
 ol {
     padding-left:0.5rem;
 }​
@@ -39,7 +44,7 @@ a {
   left: 0;
   right: 0;
   height: 2px;
-  background-color: #F37272;
+  background-color: #FFB7A7;
 }
 .dir:before {
   opacity: 0;
