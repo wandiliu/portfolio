@@ -1,3 +1,12 @@
+p a{
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+
+p a:hover{
+  background-color: #9EEBCF;
+}
 @media screen and (max-width: 810px) and (min-width: 790px){
     body {
 				padding-left: 2em;
@@ -37,13 +46,6 @@ ol {
 }
 
 
-
-a {
-	color:#FF876C;
-  position: relative;
-  text-decoration: none;
-  padding-bottom: 8px;
-}
 
 .cur{
 	background-color: #9EEBCF;
