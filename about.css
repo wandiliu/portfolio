@@ -13,7 +13,11 @@ p a:hover{
 			  padding-right: 2em;
     }
 }
-
+#square{
+  color: #9EEBCF;
+  background-color: #9EEBCF;
+  margin-right: 10px;
+}
 
 body{
 	margin-top: 0px;
